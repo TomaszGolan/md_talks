@@ -1,2 +1,5 @@
-# md_talks
-presentations written in markdown (for pandoc -t beamer)
+Presentations written in markdown for
+
+```
+pandoc -t beamer src.md -o out.pdf
+```
